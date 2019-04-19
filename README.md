@@ -5,4 +5,4 @@ To reproduce:
 1. Clone this repo
 2. Run `bundle install`
 3. Run `rails server`
-4. Navigate to `localhost:3000/alsdkjfaldj` (bogus route) and notice that the Routing Error it throws does not render a `better_errors` screen.
+4. Navigate to `localhost:3000` to see better_errors
